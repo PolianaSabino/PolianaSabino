@@ -3,7 +3,7 @@
 
 
 <div box= hover>
-  Moro na cidade de Belo Horizonte, Minas Gerais - Brasil. Gosto de tecnologias e estou estou entusiasmada com a possibilidade e habilidade de desenvolver     código.
+  Moro na cidade de Belo Horizonte, Minas Gerais - Brasil. <br/> Gosto de tecnologias e estou estou entusiasmada com a possibilidade e habilidade de desenvolver código.
 </div>
 
 ## Tecnologias em desenvolvimento
@@ -16,8 +16,7 @@
 
 <div align="hover">
   <a href="https://github.com/PolianaSabino">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PolianaSabino&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PolianaSabino&layout=compact&langs_count=7&theme=onedark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PolianaSabino&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PolianaSabino&layout=compact&langs_count=7&theme=onedark"/>
 </div>
 
 
