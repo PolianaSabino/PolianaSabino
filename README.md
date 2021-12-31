@@ -6,7 +6,7 @@
   Moro na cidade de Belo Horizonte, Minas Gerais - Brasil. <br/> Gosto de tecnologias e estou entusiasmada com a possibilidade de desenvolver código.
 </div>
 
-## Tecnologias em desenvolvimento:
+### Tecnologias em desenvolvimento:
 
 <div style="display: inline_block">
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -20,7 +20,7 @@
 </div>
 
 
-## Meus contatos:
+### Meus contatos:
 
   <a href="https://www.linkedin.com/in/poliana-sabino-921b40167/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto:poliana.sabino88@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
