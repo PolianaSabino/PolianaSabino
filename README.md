@@ -1,9 +1,9 @@
 ## Olá, meu nome é Poliana Sabino. ✌️
-### Estou aprendendo programação.
+#### Estou aprendendo programação.
 
 
 <div box= hover>
-  Moro na cidade de Belo Horizonte, Minas Gerais - Brasil. <br/> Gosto de tecnologias e estou estou entusiasmada com a possibilidade e habilidade de desenvolver código.
+  Moro na cidade de Belo Horizonte, Minas Gerais - Brasil. <br/> Gosto de tecnologias e estou entusiasmada com a possibilidade de desenvolver código.
 </div>
 
 ## Tecnologias em desenvolvimento
