@@ -6,7 +6,7 @@
   Moro na cidade de Belo Horizonte, Minas Gerais - Brasil. <br/> Gosto de tecnologias e estou entusiasmada com a possibilidade de desenvolver código.
 </div>
 
-## Tecnologias em desenvolvimento
+## Tecnologias em desenvolvimento:
 
 <div style="display: inline_block">
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
