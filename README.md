@@ -14,10 +14,10 @@
   <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </div><br/>
 
-<div align="center">
+<div align="hover">
   <a href="https://github.com/PolianaSabino">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PolianaSabino&show_icons=true&theme=gradient&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PolianaSabino&layout=compact&langs_count=7&theme=gradient"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PolianaSabino&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PolianaSabino&layout=compact&langs_count=7&theme=highcontrast"/>
 </div>
 
 
