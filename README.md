@@ -3,7 +3,7 @@
 
 
 <div box= hover>
-  Moro na cidade de Belo Horizonte, Minas Gerais - Brasil. <br/> Gosto de tecnologias e estou motivada com a possibilidade de desenvolver código.
+  Moro na cidade de Belo Horizonte, Minas Gerais - Brasil. <br/> Gosto de tecnologia e quero ser uma desenvolvedora front end.
 </div>
 
 ### Tecnologias em desenvolvimento:
@@ -19,6 +19,9 @@
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=PolianaSabino&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/> <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PolianaSabino&layout=compact&langs_count=7&theme=onedark"/>
 </div>
 
+### Baixe o meu currículo:
+
+<a href = "https://bit.ly/curriculopolianatech" arget="_blank">
 
 ### Meus contatos:
 
