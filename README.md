@@ -19,9 +19,9 @@
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=PolianaSabino&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/> <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PolianaSabino&layout=compact&langs_count=7&theme=onedark"/>
 </div>
 
-### Baixe o meu currículo:
+### Meu currículo tech:
 
-<a href = "https://bit.ly/curriculopolianatech" arget="_blank">
+<a href="https://bit.ly/curriculopolianatech" arget="_blank">
 
 ### Meus contatos:
 
