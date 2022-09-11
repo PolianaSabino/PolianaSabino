@@ -19,12 +19,9 @@
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=PolianaSabino&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/> <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PolianaSabino&layout=compact&langs_count=7&theme=onedark"/>
 </div>
 
-### Meu currículo tech:
-
-<a href="https://bit.ly/curriculopolianatech" arget="_blank">
 
 ### Meus contatos:
-
+  
   <a href="https://www.linkedin.com/in/poliana-sabino-921b40167/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto:poliana.sabino88@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
