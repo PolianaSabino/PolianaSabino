@@ -1,9 +1,9 @@
 ## Olá, meu nome é Poliana Sabino. ✌️
-#### Estou aprendendo programação.
+#### Estudante de Análise e Desenvolvimento de Sistemas
 
 
 <div box= hover>
-  Moro na cidade de Belo Horizonte, Minas Gerais - Brasil. <br/> Gosto de tecnologia e quero ser uma desenvolvedora front end.
+  Moro na cidade de Belo Horizonte, Minas Gerais - Brasil. <br/> Estou em transição de carreira. Quero ser desenvolvedora front end.
 </div>
 
 ### Tecnologias em desenvolvimento:
