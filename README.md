@@ -22,7 +22,7 @@
 
 ### Meus contatos:
   
-  <a href = "https://drive.google.com/file/d/1nzaSWszrPRmht9nPkQRbtsBJY2tY7_-0/view?usp=sharing"><img src="https://img.shields.io/badge/Currículo-000000?style=for-the-badge&logo=About.me&logoColor=white)" target="_blank"></a>
+  <a href = "https://plausible-spectacles-5c7.notion.site/Poliana-Aparecida-Sabino-b46a99221caf4240b8aea4a4b8382c8d"><img src="https://img.shields.io/badge/Currículo-000000?style=for-the-badge&logo=About.me&logoColor=white)" target="_blank"></a>
   <a href="https://www.linkedin.com/in/poliana-sabino-921b40167/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto:poliana.sabino88@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
