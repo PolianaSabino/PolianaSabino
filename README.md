@@ -3,7 +3,7 @@
 
 
 <div box= hover>
-  Moro na cidade de Belo Horizonte, Minas Gerais - Brasil. <br/> Estou em transição de carreira para me tornar uma desenvolvedora front end.
+  Moro na cidade de Belo Horizonte, Minas Gerais - Brasil. <br/> Estou em transição de carreira para me tornar uma desenvolvedora. 
 </div>
 
 ### Tecnologias em desenvolvimento:
