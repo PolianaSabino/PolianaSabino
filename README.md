@@ -3,7 +3,7 @@
 
 
 <div box= hover>
-  Moro na cidade de Belo Horizonte, Minas Gerais - Brasil. <br/> Estou em transição de carreira para me tornar uma desenvolvedora. 
+  Moro na cidade de Belo Horizonte, Minas Gerais - Brasil. <br/> Estou em transição de carreira, o meu objetivo é trabalhar com desenvolvimento de software. 
 </div>
 
 ### Tecnologias em desenvolvimento:
