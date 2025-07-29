@@ -22,7 +22,7 @@
 
 ### Meus contatos:
   
-  <a href = "https://docs.google.com/document/d/15NvGOHMrIqAKGZ8uwL4bJStNto6UUHIK2zPfkIxRbPs/edit?tab=t.0"><img src="https://img.shields.io/badge/Currículo-000000?style=for-the-badge&logo=About.me&logoColor=white)" target="_blank"></a>
+  <a href = "https://drive.google.com/file/d/1QqVFQpK4Hm-rkhPFHFsdPaBMTIe--Y-w/view?usp=sharing"><img src="https://img.shields.io/badge/Currículo-000000?style=for-the-badge&logo=About.me&logoColor=white)" target="_blank"></a>
   <a href="https://www.linkedin.com/in/poliana-sabino-921b40167/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto:poliana.sabino88@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
