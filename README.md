@@ -1,9 +1,9 @@
 ## Olá, meu nome é Poliana Sabino. ✌️
-#### Estudante de Análise e Desenvolvimento de Sistemas
+#### Formada em Análise e Desenvolvimento de Sistemas e Processos Gerenciais
 
 
 <div box= hover>
-  Moro na cidade de Belo Horizonte, Minas Gerais - Brasil. <br/> Estou em transição de carreira, o meu objetivo é trabalhar com desenvolvimento de software. 
+  Moro na cidade de Belo Horizonte, Minas Gerais - Brasil. <br/> Estou em transição de carreira, o meu objetivo é trabalhar com tecnologia.  
 </div>
 
 ### Tecnologias em desenvolvimento:
